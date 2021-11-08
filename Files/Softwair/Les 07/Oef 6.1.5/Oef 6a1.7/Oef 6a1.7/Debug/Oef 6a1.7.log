@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Oef 6a1.7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Oef 6a1.7.cpp
+  Oef 6a1.7.vcxproj -> C:\Users\Anonymous\Documents\5de Middelbaar\Softwair onwikeling\Les 07\Oef 6.1.5\Oef 6a1.7\Debug\Oef 6a.1.5.exe

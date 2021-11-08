@@ -1,0 +1,4 @@
+﻿  Taak5a.cpp
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Softwair onwikeling\New folder\Taak5a\Taak5a\Taak5a.cpp(14,47): error C2563: mismatch in formal parameter list
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Softwair onwikeling\New folder\Taak5a\Taak5a\Taak5a.cpp(14,47): error C2568: '<<': unable to resolve function overload
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Softwair onwikeling\New folder\Taak5a\Taak5a\Taak5a.cpp(14,47): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
