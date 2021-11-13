@@ -10,8 +10,7 @@ body {
     background-image: url(/images/abl8.png);
     background-repeat: no-repeat;
     background-size: cover;
-    
-    
+    background-attachment: fixed;
 }
 
  body > h1{

@@ -1,0 +1,18 @@
+.achtergrond{
+    width: 100%;
+    height: 100%;
+
+    background-image: url(/images/c++Bacground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.header{
+    text-align: center;
+    position: fixed;
+}
+
+.taken-toetsen{
+    text-align: center;
+}
