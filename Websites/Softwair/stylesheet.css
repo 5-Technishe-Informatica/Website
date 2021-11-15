@@ -16,3 +16,7 @@
 .taken-toetsen > h3{
     color: white;
 }
+
+.taken-toetsen > p > a{
+    color: grey;
+}

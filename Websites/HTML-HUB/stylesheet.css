@@ -17,6 +17,6 @@
     color: white;
 }
 
-.taken-toetsen > a{
-    color: royalblue;
+.taken-toetsen > p > a{
+    color: grey;
 }
