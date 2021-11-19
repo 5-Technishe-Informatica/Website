@@ -1,0 +1,16 @@
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.exe.config
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.pdb
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.vbproj.AssemblyReference.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht_2.Form1.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht_2.Resources.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.vbproj.GenerateResource.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.vbproj.CoreCompileInputs.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.pdb
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\bin\Debug\Opdracht 2.application
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 02 (begrippen)\Opdracht 2\Opdracht 2\obj\Debug\Opdracht 2.application
