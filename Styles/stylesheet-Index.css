@@ -19,3 +19,11 @@
     background-size: cover;
     background-attachment: fixed;
 }
+
+#content-desktop {display: block;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+
+}
