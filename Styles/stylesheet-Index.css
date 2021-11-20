@@ -1,43 +1,15 @@
-body {
-    background-color: rgb(66, 135, 245);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
+	.navbar .nav-item:hover .nav-link{ color: #fff;  }
+	.navbar .dropdown-menu.fade-down{ top:80%; transform: rotateX(-75deg); transform-origin: 0% 0%; }
+	.navbar .dropdown-menu.fade-up{ top:180%;  }
+	.navbar .nav-item:hover .dropdown-menu{ transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }
+}		
+
+.navbar{
+    border-radius: 0.50em;
 }
 
-.achtergrond{
-    width: 100%;
-    height: 100%;
-    
-    background-image: url(/images/abl8.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
- body > h1{
-     color: white;
-     text-align: center;
- }
-
-p{
-     text-align: center;
-     color: rgb(135, 210, 245);
- }
-
- #logos{
-    box-sizing: border-box;
-    width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.vakken{
-    width: 50%;
-    float: left;
-    min-height: 400px;
-    text-align: center;
-}
-
-.vakken > h4{
-    color:cadetblue ;
-    text-align: center;
+.discord-widget{
+	
 }
