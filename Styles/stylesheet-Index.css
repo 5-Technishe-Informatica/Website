@@ -10,6 +10,12 @@
     border-radius: 0.50em;
 }
 
-.discord-widget{
-	
+.background{
+	width: 100%;
+    height: 100%;
+    
+    background-image: url(/images/background-index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
