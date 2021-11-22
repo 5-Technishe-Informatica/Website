@@ -11,3 +11,18 @@
 .Agenda{
     color: red;
 }
+
+.info{
+    float: right;
+}
+
+@media screen and (max-width: 768px) {
+
+    .vakken{
+        text-align: center;
+    }
+    .info{
+        text-align: center;
+    }
+    
+    }
