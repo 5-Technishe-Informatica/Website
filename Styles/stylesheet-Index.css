@@ -22,6 +22,12 @@
     height: 600px;
 }
 
+.vakken{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
 @media screen and (max-width: 768px) {
 
     .container{
@@ -33,6 +39,9 @@
     .Widgetbot{
         width: 100%;
         height: 400px;
+    }
+    .vakken{
+        position: unset;
     }
     
     }
