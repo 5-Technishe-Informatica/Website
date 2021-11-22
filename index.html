@@ -34,6 +34,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/Websites/Sugesties/suggest.html">Suggesties</a>
         </li>
+        <li class="nav-item" id="content-mobile">
+          <a class="nav-link" href="/Websites/mobile-deadlines.html">Deadlines</a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
             aria-expanded="false" href="#">Archief</a>
@@ -64,11 +67,14 @@
       <a class="btn btn-outline-dark shadow p-3 mb-5 rounded" style="color: red;"
         href="/Websites/Films/movies.html">MOVIES</a>
     </div>
-    <div class="gap-2 btn-group-vertical class shadow-sm p-3 mb-5 bg-gradient rounded info" style="text-align: center;">
-      <h2 class="Agenda">Agenda</h2>
-      <widgetbot server="890930449600352287" channel="891339193035415633" class="Widgetbot"></widgetbot>
-      <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-      <br>
+    <div class="gap-2 btn-group-vertical class shadow-sm p-3 mb-5 bg-gradient rounded info">
+      <div id="content-desktop">
+        <h2 class="Agenda">Agenda</h2>
+        <widgetbot server="890930449600352287" channel="891339193035415633" width="300" height="600" class="Widgetbot">
+        </widgetbot>
+        <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+        <br>
+      </div>
       <h2 class="Agenda">Handige links</h2>
       <a href="https://github.com/ManuDevloo/5TIN">5TINa Github</a>
       <a href="https://github.com/ManuDevloo/Website">Website Files</a>
