@@ -8,20 +8,21 @@
     background-attachment: fixed;
 }
 
-.Agenda, h2{
-    color: red;
-}
-
 .info{
     float: right;
 }
 
-@media screen and (max-width: 768px) {
+a{
+    color: red;
+}
+
+.W3-Schools{
+    
+}
+
+@media screen and (max-width: 800px) {
     .info{
         width: 100%;
-    }
-
-    .container{
-        text-align: center;
+        height: 40px;
     }
 }

@@ -1,0 +1,109 @@
+:root {
+    --Nav-Height: 90px;
+  }
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #2f2f2f  ;
+}
+
+.main-nav{
+    height: var(--Nav-Height);
+    margin-bottom: 30px;
+}
+
+.logo{
+    color: #EEEBDD;
+    line-height: var(--Nav-Height);
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.navlinks{
+    list-style: none;
+    float: right;
+    line-height: var(--Nav-Height);
+    margin: 0;
+}
+
+.navlinks > li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.navlinks > li > a {
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    transition: all 0.3s linear 0s;
+}
+
+.navlinks > li > a:hover{
+    color: #810000;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #810000;
+}
+
+li > a.Sugesties{
+    background-color: #EEEBDD;
+    padding: 9px 20px;
+    border-radius: 50px;
+}
+
+li > a.Sugesties:hover{
+    border-bottom: none;
+}
+
+.menu-btn{
+    color: #EEEBDD;
+    font-size: 20px;
+    float: right;
+    line-height: var(--Nav-Height);
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#Check{
+    display: none;
+}
+
+@media (max-width: 800px){
+    .navlinks{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        text-align: center;
+        background: #222831;
+        right: -200%;
+        transition: all 0.5s;
+    }
+    
+    .navlinks > li{
+        display: block;
+    }
+
+    .navlinks > li > a{
+        font-size: 20px;
+    }
+
+    .navlinks > li > a:hover{
+        border-bottom: none;
+    }
+
+    .menu-btn{
+        display: block;
+    }
+
+    #Check:checked ~ .navlinks{
+        right: 0;
+    }
+}

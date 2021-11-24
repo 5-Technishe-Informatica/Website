@@ -8,7 +8,14 @@
     background-attachment: fixed;
 }
 
-.container{
-    text-align: center;
-    color: red;
+iframe{
+    width: 600px;
+    aspect-ratio: 16/9;
+}
+
+@media (max-width: 800px){
+    iframe{
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
 }
