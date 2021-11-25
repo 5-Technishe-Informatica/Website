@@ -1,0 +1,16 @@
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.exe.config
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.application
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.pdb
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\bin\Debug\Opdracht 1D.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.vbproj.AssemblyReference.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht_1D.Form1.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht_1D.Resources.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.vbproj.GenerateResource.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.vbproj.CoreCompileInputs.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.application
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 01 (inleiding)\Opdracht 1D\Opdracht 1D\obj\Debug\Opdracht 1D.pdb

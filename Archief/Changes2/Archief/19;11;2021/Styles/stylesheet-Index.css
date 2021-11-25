@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(66, 135, 245);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.achtergrond{
+    width: 100%;
+    height: 100%;
+    
+    background-image: url(/Archief/19;11;2021/images/abl8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+ body > h1{
+     color: white;
+     text-align: center;
+ }
+
+p{
+     text-align: center;
+     color: rgb(135, 210, 245);
+ }
+
+ #logos{
+    box-sizing: border-box;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vakken{
+    width: 50%;
+    float: left;
+    min-height: 400px;
+    text-align: center;
+}
+
+.vakken > h4{
+    color:cadetblue ;
+    text-align: center;
+}

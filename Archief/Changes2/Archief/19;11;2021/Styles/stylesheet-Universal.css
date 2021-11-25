@@ -1,0 +1,12 @@
+.taken-toetsen{
+    text-align: center;
+    float: left;
+}
+
+.taken-toetsen > h3{
+    color: white;
+}
+
+.taken-toetsen > p > a{
+    color: grey;
+}

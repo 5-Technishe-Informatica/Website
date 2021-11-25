@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <img src="/Files/HTML/Les09 (Thuis Herhaling)/images/hp_marathon_960x200_nl_0.png" alt="Harry Potter Marathon" style="width: 100%; height: auto;">
+    <img src="/Files/HTML/Les09 (Thuis Herhaling)/images/HP_Marathon-Poster_NL.jpg" alt="Harry Potter Poste" style="height: auto; width: auto; float: left; margin-right: 20px; margin-top: 10px;">
+    <p>
+        We zweren plechtig dat we snode plannen hebben...
+        <br>    <br>   <br>     <br>
+        In het weekend van 6 en 7 oktober worden jouw Kinepolis bioscopen omgetoverd tot Kinepolis Zweinstein! Je kan
+        dan alle acht Harry Potter-films na elkaar op groot scherm herbeleven.Riddikulus? Absoluut niet, maak je klaar voor meer dan 24 uur intense filmmagie! En net zoals bij een echte
+        marathon, zorgen wij voor de bevoorrading.
+        <br>    <br>    <br>    <br>
+        Kijk jij niet vreemd op bij termen zoals zwerkbal, Huffelpuf, dementors en kobolden? Verstop je dan niet langer
+        onder je onzichtbaarheidsmantel en koop als de bliksem je tickets!
+        <br>    <br>    <br>    <br>
+        De Zweinstein film-express vertrekt op zaterdag 6 oktober om 9 3/4 en keert terug naar de dreuzelwereld op
+        zondag 7 oktober om 10u10.
+        <br>    <br>    <br>    <br>
+        Brooms up!
+    </p>
+    <h1>Koop hier u kaartjes!</h1>
+    <form action="mailto:harrypotter@kinepolis.be" enctype="text/plain" method="post">
+        <fieldset>
+            <legend>Algemene Gegevens</legend>
+            <br>
+            <label>Naam:
+                <input type="text" name="naam" placeholder="Harry Potter">
+            </label>
+            <br>
+            <br>
+            <label>E-mail:
+                <input type="email" name="mail" placeholder="Harry@zweinstein.com">
+            </label>
+            <br>
+            <br>
+            <label>GSM-nr:
+                <input type="tel" name="gsmnr">
+            </label>
+            <br>
+            <br>
+            <label>Geboortedatum:
+                <input type="date" name="datum">
+            </label>
+            <br>
+            <br>
+        </fieldset>
+        <fieldset>
+            <legend>Ticket informatie</legend>
+            <br>
+            <label>Hoeveel tickets wil je?:
+                <select name="TicketAantal">
+                    <option value="1">Eén – 45 euro</option>
+                    <option value="2">Twee-90 euro</option>
+                    <option value="3">Drie-135 euro</option>
+                    <option value="4">Vier-180 euro</option>
+                </select>
+            </label>
+            <br>
+            <label>Waar wil je komen kijken?:
+                <select name="KinepolisKeuze" size="4">
+                    <option value="Antwerpen">Kinepolis Antwerpen</option>
+                    <option value="Gent">Kinepolis Gent</option>
+                    <option value="Brussel">Kinepolis Brussel</option>
+                    <option value="Kortrijk">Kinepolis Kortrijk</option>
+                </select>
+            </label>
+            <br>
+            <br>
+        </fieldset>
+        <fieldset>
+            <legend>Betaling</legend>
+            <br>
+            <label>Ben je nog een student? (-1 euro)
+                <input type="checkbox" name="studentenkorting" value="ja">
+            </label>
+            <p></p>
+            <label>Hoe wil je betalen?</label>
+            <br>
+            <label>Paypal
+                <input type="radio" name="betalingswijze" value="Paypal">
+            </label>
+            <label>CreditCard
+                <input type="radio" name="betalingswijze" value="CreditCard">
+            </label>
+            <label>Bancontact
+                <input type="radio" name="betalingswijze" value="Bancontact">
+            </label>
+            <br>
+            <br>
+        </fieldset>
+        <br>
+        <label>Heb je vragen of opmerking voor ons</label>
+        <br>
+        <textarea name="comment" placeholder="Stel hier jouw vragen voor Dumbledore en de Zweinstein-crew" cols="50" rows="4"></textarea>
+        <br>
+        <br>
+        <input type="submit" value="opsturen">
+        <input type="reset" value="leegmaken">
+    </form>
+</body>
+
+</html>
+<!---Deze code is eigendom van Manu Devloo-->

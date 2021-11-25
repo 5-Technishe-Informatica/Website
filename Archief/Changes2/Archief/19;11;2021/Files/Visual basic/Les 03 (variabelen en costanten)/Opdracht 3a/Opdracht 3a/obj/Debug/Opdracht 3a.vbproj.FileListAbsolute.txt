@@ -1,0 +1,16 @@
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.vbproj.AssemblyReference.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht_3a.Form1.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht_3a.Resources.resources
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.vbproj.GenerateResource.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.vbproj.CoreCompileInputs.cache
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.exe.config
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.pdb
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.exe
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.xml
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.pdb
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\bin\Debug\Opdracht 3a.application
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.exe.manifest
+C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Visual Basic\Les 03 (variabelen en costanten)\Opdracht 3a\Opdracht 3a\obj\Debug\Opdracht 3a.application

@@ -1,0 +1,34 @@
+strong{
+    color: green;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h2{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
+
+blockquote{
+    color: green;
+    font-size: 1.3em;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+cite{
+    font-size: 1em;
+}
+
+h1{
+    text-transform: uppercase;
+}
