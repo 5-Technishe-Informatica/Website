@@ -1,0 +1,37 @@
+body{
+    background: url(/images/index-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    width: 100%;
+    height: 100%;
+}
+
+.info {
+    float: right;
+    text-align: center;
+    border: 2px solid #2f2f2f;
+    border-radius: 2em;
+    background-color: hsla(0, 1%, 70%, 0.116);
+    padding: 1em;
+
+    h2 {
+        color: var(--primarycolor);
+    }
+    a {
+        color: var(--primarycolor);
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .info {
+        width: 37em;
+        background: linear-gradient(90deg, rgba(47, 47, 47, 1) 0%, rgba(160, 0, 0, 0.6085784655659139) 80%);
+    }
+
+    body{
+        background: #101010;
+
+    }
+}

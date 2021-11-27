@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Taak 6a2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Taak 6a3.cpp
-  Taak 6a2.vcxproj -> C:\Users\devlo\OneDrive - Scholengroep 18\Documents\5de Middelbaar\Softwair onwikeling\Les 06\Taak 6a2\Debug\Taak 6a3.exe
