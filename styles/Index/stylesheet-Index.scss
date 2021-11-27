@@ -12,7 +12,7 @@ body{
     float: right;
     text-align: center;
     border: 2px solid #2f2f2f;
-    border-radius: 2em;
+    border-radius: 2rem;
     background-color: hsla(0, 1%, 70%, 0.116);
     padding: 1em;
 
@@ -27,6 +27,8 @@ body{
 @media screen and (max-width: 800px) {
     .info {
         width: 100%;
+        float: none;
+        padding: 0em;
         background: linear-gradient(90deg, rgba(47, 47, 47, 1) 0%, rgba(160, 0, 0, 0.6085784655659139) 80%);
     }
 
