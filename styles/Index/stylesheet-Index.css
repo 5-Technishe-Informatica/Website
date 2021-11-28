@@ -101,4 +101,56 @@ body {
     background: #101010;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .Video1 {
+    float: left;
+    width: 100%;
+    position: relative;
+  }
+  .Video1 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 200px;
+  }
+  .Video2 {
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-top: 0;
+  }
+  .Video2 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .Video1 {
+    float: left;
+    width: 100%;
+    position: relative;
+  }
+  .Video1 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 150px;
+  }
+  .Video2 {
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-top: 0;
+  }
+  .Video2 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 150px;
+  }
+}
 /*# sourceMappingURL=stylesheet-Index.css.map */
