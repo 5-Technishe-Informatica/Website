@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/styles/Sugesties/suggesties.css">
+    <link rel="stylesheet" href="/styles/Universal/stylesheet-Universal.css">
+
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+    <title>sugesties</title>
+</head>
+
+<body>
+    <div id="nav-placeholder"></div>
+    <script>
+        $(function () {
+            $("#nav-placeholder").load("/navbar/navbar.html");
+        });
+    </script>
+
+    <div class="p-inhoud">
+        <form action="mailto:mdindustries@protonmail.com" enctype="text/plain" method="post">
+            <fieldset class="box-outer">
+                <legend>Sugesties</legend>
+                <label>
+                    <input class="boxNaam voornaam box" type="text" name="Voornaam" placeholder="voornaam" required>
+                </label>
+                <label>
+                    <input class="boxNaam box" type="text" name="Familienaam" placeholder="familienaam" required>
+                </label>
+                <br>
+                <label>
+                    <input class="boxEmail box" type="email" placeholder="email" name="Email" required>
+                </label>
+                <label>
+                    <textarea name="suggesties" class="boxSuggestie box" rows="50" placeholder="zet hier jouw suggesties"
+                        required></textarea>
+                </label>
+                <button type="submit" class="btn-Submit">Submit</button>
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>

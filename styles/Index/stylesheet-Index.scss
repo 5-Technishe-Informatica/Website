@@ -108,6 +108,7 @@ body {
     }
 }
 
+//for screen-sizes under 500px
 @media screen and (max-width: 500px) {
     .Video1 {
         float: left;
@@ -137,6 +138,7 @@ body {
     }
 }
 
+//for screen-sizes under 350px
 @media screen and (max-width: 350px) {
     .Video1 {
         float: left;
