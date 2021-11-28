@@ -5,6 +5,8 @@ body {
   background-attachment: fixed;
   width: 100%;
   height: 100%;
+  margin: 0%;
+  padding: 0;
 }
 
 .info {
@@ -14,6 +16,7 @@ body {
   border-radius: 2rem;
   background-color: rgba(179, 178, 178, 0.116);
   padding: 1em;
+  margin-left: 20px;
 }
 
 .info h2 {
@@ -24,13 +27,75 @@ body {
   color: var(--primarycolor);
 }
 
+.Video1 {
+  float: left;
+  width: 70%;
+  position: absolute;
+}
+
+.Video1 iframe {
+  border-radius: 2rem;
+  border: 2px solid #2f2f2f;
+  width: 64%;
+  height: 300px;
+}
+
+.Video2 {
+  float: left;
+  width: 70%;
+  position: absolute;
+  margin-top: 315px;
+}
+
+.Video2 iframe {
+  border-radius: 2rem;
+  border: 2px solid #2f2f2f;
+  width: 64%;
+  height: 300px;
+}
+
+.Small-talk p {
+  position: absolute;
+  margin-top: 640px;
+  text-align: center;
+  float: left;
+  color: var(--primarycolor);
+  width: 46%;
+}
+
 @media screen and (max-width: 800px) {
   .info {
     width: 100%;
     float: none;
     padding: 0em;
+    margin: 0;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
     background: -webkit-gradient(linear, left top, right top, from(#2f2f2f), color-stop(80%, rgba(160, 0, 0, 0.608578)));
     background: linear-gradient(90deg, #2f2f2f 0%, rgba(160, 0, 0, 0.608578) 80%);
+  }
+  .Video1 {
+    float: left;
+    width: 100%;
+    position: relative;
+  }
+  .Video1 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 300px;
+  }
+  .Video2 {
+    float: left;
+    width: 100%;
+    position: relative;
+    margin-top: 0;
+  }
+  .Video2 iframe {
+    border-radius: 2rem;
+    border: 2px solid #2f2f2f;
+    width: 100.1%;
+    height: 300px;
   }
   body {
     background: #101010;
