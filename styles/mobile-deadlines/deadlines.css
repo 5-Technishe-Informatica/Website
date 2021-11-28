@@ -1,0 +1,5 @@
+.widget {
+  background: -webkit-gradient(linear, left top, right top, from(#2f2f2f), color-stop(80%, rgba(160, 0, 0, 0.608578)));
+  background: linear-gradient(90deg, #2f2f2f 0%, rgba(160, 0, 0, 0.608578) 80%);
+}
+/*# sourceMappingURL=deadlines.css.map */
