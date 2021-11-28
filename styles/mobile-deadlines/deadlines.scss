@@ -1,3 +1,19 @@
-.widget{
-    background: linear-gradient(90deg, rgba(47, 47, 47, 1) 0%, rgba(160, 0, 0, 0.6085784655659139) 80%);
+body{
+    background: #101010;
 }
+
+.Agenda {
+    background: linear-gradient(90deg, rgba(47, 47, 47, 1) 0%, rgba(160, 0, 0, 0.6085784655659139) 80%);
+    border-radius: 1rem;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    color: red;
+    width: 100%;
+
+    widgetbot{
+        width: 100%;
+        height: 30rem;
+    }
+}
+
