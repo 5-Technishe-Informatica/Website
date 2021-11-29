@@ -1,36 +1,50 @@
-body{
-    animation-duration: 2s;
-    animation-name: scale-up-center;
-}
-
 @-webkit-keyframes scale-up-center {
     0% {
-      -webkit-transform: scale(0.5);
-              transform: scale(0.5);
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5);
     }
     100% {
-      -webkit-transform: scale(1);
-              transform: scale(1);
+        -webkit-transform: scale(1);
+        transform: scale(1);
     }
-  }
-  @keyframes scale-up-center {
+}
+@keyframes scale-up-center {
     0% {
-      -webkit-transform: scale(0.5);
-              transform: scale(0.5);
+        -webkit-transform: scale(0.5);
+        transform: scale(0.5);
     }
     100% {
-      -webkit-transform: scale(1);
-              transform: scale(1);
+        -webkit-transform: scale(1);
+        transform: scale(1);
     }
-  }
+}
+
+@keyframes slidin {
+    from {
+        margin-left: 100%;
+        width: 300%;
+    }
+
+    to {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
 
 :root {
     --primarycolor: red;
     --secondary-color: #2f2f2f;
 }
 
+.navbar{
+    animation-duration: 2s;
+    animation-name: slidin;
+}
+
 .p-inhoud {
     margin: 50px;
+    animation-duration: 2s;
+    animation-name: scale-up-center;
 }
 
 .content-desktop {
