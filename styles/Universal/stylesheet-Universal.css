@@ -1,3 +1,29 @@
+:root {
+  --primarycolor: red;
+  --secondary-color: #2f2f2f;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--secondary-color);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--primarycolor);
+  border-radius: 1rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
 @-webkit-keyframes scale-up-center {
   0% {
     -webkit-transform: scale(0.5);
@@ -40,11 +66,6 @@
     margin-left: 0%;
     width: 100%;
   }
-}
-
-:root {
-  --primarycolor: red;
-  --secondary-color: #2f2f2f;
 }
 
 .navbar {
