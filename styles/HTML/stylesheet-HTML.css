@@ -1,18 +1,19 @@
 body {
-    background-color: #101010;
-  }
-  
-  .p-inhoud {
-    text-align: center;
-  }
-  
-  .button {
-    color: red;
-    height: 2.5rem;
-    width: 12rem;
-    border-radius: 1rem;
-    background-color: transparent;
-    border-color: red;
-    margin-bottom: 0.5rem;
-    margin-top: 1rem;
-  }
+  background-color: #101010;
+}
+
+.p-inhoud {
+  text-align: center;
+}
+
+.button {
+  color: red;
+  height: 2.5rem;
+  width: 12rem;
+  border-radius: 1rem;
+  background-color: transparent;
+  border-color: red;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=stylesheet-HTML.css.map */
