@@ -1,0 +1,17 @@
+.movie{
+    text-align: center;
+    float: left;
+    margin-left: 10px;
+    color: red;
+}
+
+@media (max-width: 800px){
+    .movie{
+        float: none;
+        margin-left: 0;
+    }
+    iframe{
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+}
