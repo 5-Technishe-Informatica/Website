@@ -9,6 +9,13 @@ body {
     color: red;
 }
 
+.p-inhoud{
+    display: flexbox;
+    justify-content: center;
+    align-content: center;
+    padding-left: 5%;
+}
+
 @media (max-width: 800px){
     .movie{
         float: none;

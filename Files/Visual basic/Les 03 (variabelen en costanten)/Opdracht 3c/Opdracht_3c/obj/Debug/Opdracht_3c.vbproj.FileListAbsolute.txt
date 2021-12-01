@@ -1,0 +1,12 @@
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.vbproj.AssemblyReference.cache
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.Form1.resources
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.Resources.resources
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.vbproj.GenerateResource.cache
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.vbproj.CoreCompileInputs.cache
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\bin\Debug\Opdracht_3c.exe.config
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\bin\Debug\Opdracht_3c.exe
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\bin\Debug\Opdracht_3c.pdb
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\bin\Debug\Opdracht_3c.xml
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.exe
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.xml
+C:\Users\kenneth.heymans\OneDrive - Scholengroep 18\CA - INFORMATICA\2021-2022\Visual Basics\3.a\Opdracht_3c\Opdracht_3c\obj\Debug\Opdracht_3c.pdb

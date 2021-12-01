@@ -1,0 +1,12 @@
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.vbproj.AssemblyReference.cache
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6_Toets.Form1.resources
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6_Toets.Resources.resources
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.vbproj.GenerateResource.cache
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.vbproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\bin\Debug\Les6 Toets.exe.config
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\bin\Debug\Les6 Toets.exe
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\bin\Debug\Les6 Toets.pdb
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\bin\Debug\Les6 Toets.xml
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.exe
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.xml
+C:\Users\Anonymous\Documents\5de Middelbaar\Visual Basic\Toets\Les6 Toets\Les6 Toets\obj\Debug\Les6 Toets.pdb
