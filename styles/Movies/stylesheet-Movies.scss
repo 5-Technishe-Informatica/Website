@@ -3,17 +3,53 @@ body {
 }
 
 .movie{
-    text-align: center;
-    float: left;
-    margin-left: 10px;
     color: red;
 }
 
-.p-inhoud{
-    display: flexbox;
+iframe{
+    border-radius: 1rem;
+}
+
+.Spiderman{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 30px;
     justify-content: center;
     align-content: center;
-    padding-left: 5%;
+    text-align: center;
+}
+
+.Kingsman{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.Transformers{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.Borat{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: underline;
 }
 
 @media (max-width: 800px){
