@@ -24,11 +24,21 @@ iframe {
   text-align: center;
 }
 
+.center-Spiderman1 {
+  -ms-grid-column: 2;
+  grid-column: 2;
+}
+
+.center-Spiderman2 {
+  -ms-grid-column: 3;
+  grid-column: 3;
+}
+
 .Kingsman {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 20% 20% 20% 20%;
-      grid-template-columns: 20% 20% 20% 20%;
+  -ms-grid-columns: 20% 20%;
+      grid-template-columns: 20% 20%;
   gap: 30px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -52,11 +62,21 @@ iframe {
   text-align: center;
 }
 
+.center-Transformers1 {
+  -ms-grid-column: 2;
+  grid-column: 2;
+}
+
+.center-Transformers2 {
+  -ms-grid-column: 3;
+  grid-column: 3;
+}
+
 .Borat {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 20% 20% 20% 20%;
-      grid-template-columns: 20% 20% 20% 20%;
+  -ms-grid-columns: 20% 20%;
+      grid-template-columns: 20% 20%;
   gap: 30px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -95,22 +115,22 @@ iframe {
   }
 }
 
-@media (max-width: 1550px) {
+@media (max-width: 1500px) {
   .Spiderman {
-    -ms-grid-columns: 20% 20%;
-        grid-template-columns: 20% 20%;
+    -ms-grid-columns: 40% 40%;
+        grid-template-columns: 40% 40%;
   }
   .Kingsman {
-    -ms-grid-columns: 20% 20%;
-        grid-template-columns: 20% 20%;
+    -ms-grid-columns: 40% 40%;
+        grid-template-columns: 40% 40%;
   }
   .Transformers {
-    -ms-grid-columns: 20% 20%;
-        grid-template-columns: 20% 20%;
+    -ms-grid-columns: 40% 40%;
+        grid-template-columns: 40% 40%;
   }
   .Borat {
-    -ms-grid-columns: 20% 20%;
-        grid-template-columns: 20% 20%;
+    -ms-grid-columns: 40% 40%;
+        grid-template-columns: 40% 40%;
   }
   iframe {
     width: 100%;

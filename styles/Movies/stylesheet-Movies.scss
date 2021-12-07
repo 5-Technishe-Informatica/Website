@@ -19,9 +19,17 @@ iframe {
     text-align: center;
 }
 
+.center-Spiderman1{
+    grid-column: 2;
+}
+
+.center-Spiderman2{
+    grid-column: 3;
+}
+
 .Kingsman {
     display: grid;
-    grid-template-columns: 20% 20% 20% 20%;
+    grid-template-columns: 20% 20%;
     gap: 30px;
     justify-content: center;
     align-content: center;
@@ -37,9 +45,17 @@ iframe {
     text-align: center;
 }
 
+.center-Transformers1{
+    grid-column: 2;
+}
+
+.center-Transformers2{
+    grid-column: 3;
+}
+
 .Borat {
     display: grid;
-    grid-template-columns: 20% 20% 20% 20%;
+    grid-template-columns: 20% 20%;
     gap: 30px;
     justify-content: center;
     align-content: center;
@@ -78,21 +94,21 @@ iframe {
     }
 }
 
-@media (max-width: 1550px) {
+@media (max-width: 1500px) {
     .Spiderman {
-        grid-template-columns: 20% 20%;
+        grid-template-columns: 40% 40%;
     }
 
     .Kingsman {
-        grid-template-columns: 20% 20%;
+        grid-template-columns: 40% 40%;
     }
 
     .Transformers {
-        grid-template-columns: 20% 20%;
+        grid-template-columns: 40% 40%;
     }
 
     .Borat {
-        grid-template-columns: 20% 20%;
+        grid-template-columns: 40% 40%;
     }
     iframe {
         width: 100%;
