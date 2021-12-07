@@ -94,4 +94,27 @@ iframe {
     aspect-ratio: 16/9;
   }
 }
+
+@media (max-width: 1550px) {
+  .Spiderman {
+    -ms-grid-columns: 20% 20%;
+        grid-template-columns: 20% 20%;
+  }
+  .Kingsman {
+    -ms-grid-columns: 20% 20%;
+        grid-template-columns: 20% 20%;
+  }
+  .Transformers {
+    -ms-grid-columns: 20% 20%;
+        grid-template-columns: 20% 20%;
+  }
+  .Borat {
+    -ms-grid-columns: 20% 20%;
+        grid-template-columns: 20% 20%;
+  }
+  iframe {
+    width: 100%;
+    aspect-ratio: 16/9;
+  }
+}
 /*# sourceMappingURL=stylesheet-Movies.css.map */

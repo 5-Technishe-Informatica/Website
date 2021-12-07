@@ -2,15 +2,15 @@ body {
     background-color: #101010;
 }
 
-.movie{
+.movie {
     color: red;
 }
 
-iframe{
+iframe {
     border-radius: 1rem;
 }
 
-.Spiderman{
+.Spiderman {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     gap: 30px;
@@ -19,7 +19,7 @@ iframe{
     text-align: center;
 }
 
-.Kingsman{
+.Kingsman {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     gap: 30px;
@@ -28,7 +28,7 @@ iframe{
     text-align: center;
 }
 
-.Transformers{
+.Transformers {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     gap: 30px;
@@ -37,7 +37,7 @@ iframe{
     text-align: center;
 }
 
-.Borat{
+.Borat {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
     gap: 30px;
@@ -46,33 +46,55 @@ iframe{
     text-align: center;
 }
 
-.title{
+.title {
     text-align: center;
     color: whitesmoke;
     text-decoration: underline;
 }
 
-@media (max-width: 800px){
-    .Spiderman{
+@media (max-width: 800px) {
+    .Spiderman {
         display: block;
         text-align: center;
     }
-    
-    .Kingsman{
+
+    .Kingsman {
         display: block;
         text-align: center;
     }
-    
-    .Transformers{
+
+    .Transformers {
         display: block;
         text-align: center;
     }
-    
-    .Borat{
+
+    .Borat {
         display: block;
         text-align: center;
     }
-    iframe{
+    iframe {
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+}
+
+@media (max-width: 1550px) {
+    .Spiderman {
+        grid-template-columns: 20% 20%;
+    }
+
+    .Kingsman {
+        grid-template-columns: 20% 20%;
+    }
+
+    .Transformers {
+        grid-template-columns: 20% 20%;
+    }
+
+    .Borat {
+        grid-template-columns: 20% 20%;
+    }
+    iframe {
         width: 100%;
         aspect-ratio: 16/9;
     }
