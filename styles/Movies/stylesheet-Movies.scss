@@ -53,9 +53,24 @@ iframe{
 }
 
 @media (max-width: 800px){
-    .movie{
-        float: none;
-        margin-left: 0;
+    .Spiderman{
+        display: block;
+        text-align: center;
+    }
+    
+    .Kingsman{
+        display: block;
+        text-align: center;
+    }
+    
+    .Transformers{
+        display: block;
+        text-align: center;
+    }
+    
+    .Borat{
+        display: block;
+        text-align: center;
     }
     iframe{
         width: 100%;
