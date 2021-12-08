@@ -36,6 +36,24 @@ iframe {
     text-align: center;
 }
 
+.Bond{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.Bond-center{
+    display: grid;
+    grid-template-columns: 20%;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
 .Transformers {
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;

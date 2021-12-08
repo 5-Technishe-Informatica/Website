@@ -48,6 +48,34 @@ iframe {
   text-align: center;
 }
 
+.Bond {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 20% 20% 20%;
+      grid-template-columns: 20% 20% 20% 20%;
+  gap: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  text-align: center;
+}
+
+.Bond-center {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20%;
+      grid-template-columns: 20%;
+  gap: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  text-align: center;
+}
+
 .Transformers {
   display: -ms-grid;
   display: grid;
