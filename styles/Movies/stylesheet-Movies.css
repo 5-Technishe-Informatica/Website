@@ -24,16 +24,6 @@ iframe {
   text-align: center;
 }
 
-.center-Spiderman1 {
-  -ms-grid-column: 2;
-  grid-column: 2;
-}
-
-.center-Spiderman2 {
-  -ms-grid-column: 3;
-  grid-column: 3;
-}
-
 .Kingsman {
   display: -ms-grid;
   display: grid;
@@ -90,14 +80,18 @@ iframe {
   text-align: center;
 }
 
-.center-Transformers1 {
-  -ms-grid-column: 2;
-  grid-column: 2;
-}
-
-.center-Transformers2 {
-  -ms-grid-column: 3;
-  grid-column: 3;
+.FastFurious {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 20% 20% 20%;
+      grid-template-columns: 20% 20% 20% 20%;
+  gap: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  text-align: center;
 }
 
 .Borat {
@@ -112,6 +106,30 @@ iframe {
   -ms-flex-line-pack: center;
       align-content: center;
   text-align: center;
+}
+
+.other {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 20% 20% 20%;
+      grid-template-columns: 20% 20% 20% 20%;
+  gap: 30px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  text-align: center;
+}
+
+.center1 {
+  -ms-grid-column: 2;
+  grid-column: 2;
+}
+
+.center2 {
+  -ms-grid-column: 3;
+  grid-column: 3;
 }
 
 .title {
